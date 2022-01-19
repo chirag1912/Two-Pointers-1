@@ -1,6 +1,11 @@
+//Most Optimized solution:
+//Using three pointers low, mid, high
+//keeping low to be for 0, mid for 1 and high for 2;
+
+
+
 //Calculating the no of colors in the array keeping a count of the no of colors
 //and then pushing the colors in the array in 2nd pass;
-
 
 //TC: O(n) with two pass approach;
 //SC: O(1) as changing within the same array;
